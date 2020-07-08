@@ -1,0 +1,16 @@
+﻿  ConBo.cpp
+F:\OOP\NongTrai\NongTrai\ConBo.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\OOP\NongTrai\NongTrai\ConBo.cpp(17,19): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+F:\OOP\NongTrai\NongTrai\ConBo.cpp(18,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ConCuu.cpp
+F:\OOP\NongTrai\NongTrai\ConCuu.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\OOP\NongTrai\NongTrai\ConCuu.cpp(17,19): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+F:\OOP\NongTrai\NongTrai\ConCuu.cpp(18,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ConDe.cpp
+F:\OOP\NongTrai\NongTrai\ConDe.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\OOP\NongTrai\NongTrai\ConDe.cpp(17,19): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+F:\OOP\NongTrai\NongTrai\ConDe.cpp(18,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GiaSuc.cpp
+  Source.cpp
+  Generating Code...
+  NongTrai.vcxproj -> F:\OOP\NongTrai\x64\Debug\NongTrai.exe
